@@ -1,0 +1,14 @@
+C:\Users\aleja\source\repos\Telfonica\Telfonica\bin\Debug\net8.0\Telfonica.exe
+C:\Users\aleja\source\repos\Telfonica\Telfonica\bin\Debug\net8.0\Telfonica.deps.json
+C:\Users\aleja\source\repos\Telfonica\Telfonica\bin\Debug\net8.0\Telfonica.runtimeconfig.json
+C:\Users\aleja\source\repos\Telfonica\Telfonica\bin\Debug\net8.0\Telfonica.dll
+C:\Users\aleja\source\repos\Telfonica\Telfonica\bin\Debug\net8.0\Telfonica.pdb
+C:\Users\aleja\source\repos\Telfonica\Telfonica\obj\Debug\net8.0\Telfonica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\source\repos\Telfonica\Telfonica\obj\Debug\net8.0\Telfonica.AssemblyInfoInputs.cache
+C:\Users\aleja\source\repos\Telfonica\Telfonica\obj\Debug\net8.0\Telfonica.AssemblyInfo.cs
+C:\Users\aleja\source\repos\Telfonica\Telfonica\obj\Debug\net8.0\Telfonica.csproj.CoreCompileInputs.cache
+C:\Users\aleja\source\repos\Telfonica\Telfonica\obj\Debug\net8.0\Telfonica.dll
+C:\Users\aleja\source\repos\Telfonica\Telfonica\obj\Debug\net8.0\refint\Telfonica.dll
+C:\Users\aleja\source\repos\Telfonica\Telfonica\obj\Debug\net8.0\Telfonica.pdb
+C:\Users\aleja\source\repos\Telfonica\Telfonica\obj\Debug\net8.0\Telfonica.genruntimeconfig.cache
+C:\Users\aleja\source\repos\Telfonica\Telfonica\obj\Debug\net8.0\ref\Telfonica.dll
