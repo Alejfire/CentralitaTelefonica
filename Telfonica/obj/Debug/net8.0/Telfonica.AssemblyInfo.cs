@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Telfonica")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58374e8524c0e8dea9f350ab949b98cec1c7ff84")]
 [assembly: System.Reflection.AssemblyProductAttribute("Telfonica")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Telfonica")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
